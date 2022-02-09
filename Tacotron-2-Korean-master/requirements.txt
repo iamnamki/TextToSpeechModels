@@ -9,5 +9,5 @@ librosa
 matplotlib
 tqdm
 numpy
-tensorflow-gpu==1.9
+tensorflow-gpu==2.5.3
 num2words
